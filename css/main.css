@@ -2,8 +2,51 @@ body {
   background-color: teal;
 }
 
-.sticky {
-  position: fixed;
-  top: 0;
-  width: 100%;
+.bg-yellow {
+    background-color: yellow;
 }
+
+.bg-yellowGreen {
+    background-color: yellowgreen;
+}
+
+.bg-whiteSmoke {
+    background-color: whitesmoke;
+}
+
+.bg-salmon {
+    background-color: salmon;
+}
+
+.bg-pink {
+    background-color: pink;
+}
+
+.bg-paleGreen {
+    background-color: palegreen;
+}
+
+.bg-olive {
+    background-color: olive;
+}
+
+section {
+
+  height: 300px;
+}
+
+/* NAVBAR SECTION */
+
+.navbar {
+  background-color: #444444;
+}
+
+.navbar-brand img {
+  height: 60px;
+}
+
+.activado {
+  color: yellowgreen;
+}
+
+/* END NAVBAR SECTION */
